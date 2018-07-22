@@ -1,0 +1,16 @@
+{
+    "user1" : {
+        "name" : "Nost" ,
+        "password" : "password1",
+        "occupation" : "student",
+        "id" : 1
+
+    },
+    "user2" : {
+        "name" : "Fei" ,
+        "password" : "password2",
+        "occupation" : "student",
+        "id" : 2
+
+    }
+}
